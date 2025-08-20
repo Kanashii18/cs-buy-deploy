@@ -1,0 +1,52 @@
+{
+  "name": "project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "api": "npm run build && node --watch api/api.js"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.9.0",
+    "@stripe/stripe-js": "^7.8.0",
+    "@tensorflow/tfjs": "^4.22.0",
+    "better-sqlite3": "^12.2.0",
+    "cloudinary": "^2.7.0",
+    "coinbase-commerce-node": "^1.0.4",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.1",
+    "framer-motion": "^12.20.2",
+    "fuse.js": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.3",
+    "nsfwjs": "^4.2.1",
+    "paypal-rest-sdk": "^1.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fontawesome": "^1.7.1",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^7.7.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "sqlite3": "^5.1.7",
+    "stripe": "^18.4.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "eslint": "^9.29.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.2.0",
+    "sass": "^1.89.2",
+    "vite": "^7.0.0"
+  }
+}
