@@ -1,0 +1,490 @@
+[
+  {
+    "id": "af6a7be7-5468-48b8-a381-69fd4f58ac3c",
+    "title": "Netflix cuenta",
+    "quantity": 103,
+    "discount": {
+      "hasDiscount": true,
+      "porcent": 50
+    },
+    "seller": {
+      "id": "765ba328-7b4a-41c8-a10b-3db6547fea3d",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/3.jpg",
+    "price": 22.13,
+    "category": "videojuegos",
+    "description": "Licencia 437 de alta calidad. Ideal para usuarios exigentes."
+  },
+  {
+    "id": "af6a7be7-5468-48b8-a383-69fd4f58ac3c",
+    "title": "Netflix cuenta",
+    "seller": {
+      "id": "765ba328-7b4a-41c8-a10b-3db6547fea3d",
+      "name": "Anonimo",
+      "img": "../data/images/10.jpg",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/3.jpg",
+    "price": 22.13,
+    "category": "Assets",
+    "type": "licencia",
+    "description": "Licencia 437 de alta calidad. Ideal para usuarios exigentes."
+  },
+  {
+    "id": "f186c2e9-7c5c-485d-975a-d4f5fb22a568",
+    "title": "Artículo 218",
+    "image": "../data/images/4.webp",
+    "price": 70.98,
+    "category": "servicios",
+    "type": "suscripción",
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6547fea5d",
+      "name": "Leeke",
+      "rate": 99.9,
+      "quantity": 340355
+    },
+    "rate": 97.5,
+    "description": "Artículo 218 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "nuevo",
+      "rápido"
+    ]
+  },
+  {
+    "id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+    "title": "Disney",
+    "price": 54.79,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6547fea6d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/2.png",
+    "category": "servicios",
+    "type": "suscripción",
+    "description": "Servicio 359 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "digital",
+      "premium",
+      "popular"
+    ]
+  },
+  {
+    "id": "765ba328-7b4a-44c8-a10b-3db6547fee36",
+    "title": "Disney",
+    "price": 54.79,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6547fwa6d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/2.png",
+    "category": "servicios",
+    "type": "suscripción",
+    "description": "Servicio 359 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "digital",
+      "premium",
+      "popular"
+    ]
+  },
+  {
+    "id": "4562c08f-94fd-4e49-a6f2-4be837ede7cb",
+    "title": "Netflix Cuenta Barato Mensual",
+    "price": 4.99,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6547fea4d",
+      "name": "Sedencito",
+      "rate": 99.4,
+      "delivery_time": 48,
+      "img": "../data/images/2.jpg",
+      "quantity": 190355
+    },
+    "image": "../data/images/5.webp",
+    "category": "educación",
+    "type": "acceso",
+    "description": "Accesorio 36 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "nuevo",
+      "digital",
+      "popular",
+      "descuento"
+    ]
+  },
+  {
+    "id": "4562c08f-94fd-4e49-a6f2-4be137ede7cb",
+    "title": "Netflix Cuenta Barato Mensual",
+    "price": 4.99,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db65d7fea4d",
+      "name": "Sedencito",
+      "rate": 99.4,
+      "delivery_time": 48,
+      "img": "../data/images/2.jpg",
+      "quantity": 190355
+    },
+    "image": "../data/images/5.webp",
+    "category": "educación",
+    "type": "acceso",
+    "description": "Accesorio 36 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "nuevo",
+      "digital",
+      "popular",
+      "descuento"
+    ]
+  },
+  {
+    "id": "4562c08f-94fd-4e49-a6s2-4be137ede7cb",
+    "title": "Netflix Cuenta Barato Mensual",
+    "price": 4.99,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3d365d7fea4d",
+      "name": "Sedencito",
+      "rate": 99.4,
+      "delivery_time": 48,
+      "img": "../data/images/2.jpg",
+      "quantity": 190355
+    },
+    "image": "../data/images/5.webp",
+    "category": "educación",
+    "type": "acceso",
+    "description": "Accesorio 36 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "nuevo",
+      "digital",
+      "popular",
+      "descuento"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f718eabc",
+    "title": "Accesorio 76",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6547f8a2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f719ea3c",
+    "title": "Accesorio 72",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6549fea2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f701eabc",
+    "title": "Accesorio 76",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6540fea2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f712eabc",
+    "title": "Accesorio 76",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db653fea2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f731eabc",
+    "title": "Accesorio 76",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6545fea2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f343eabc",
+    "title": "Accesorio 76",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db6553fea2d",
+      "name": "Anonimo",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/6.png",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f742eabc",
+    "title": "cuenta de lol",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db3547fea2d",
+      "name": "Kanashii",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/8.avif",
+    "category": "streaming",
+    "type": "suscripción",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes.",
+    "tags": [
+      "rápido",
+      "premium"
+    ]
+  },
+  {
+    "id": "d2faef9a-bd73-4cea-bc87-8b08f321eabc",
+    "title": "cuenta de lol",
+    "price": 17.6,
+    "seller": {
+      "id": "765ba328-7b4a-44c8-a10b-3db4347fea2d",
+      "name": "Kanashii",
+      "rate": 99.4,
+      "quantity": 103
+    },
+    "image": "../data/images/8.avif",
+    "category": "streaming",
+    "description": "Accesorio 76 de alta calidad. Ideal para usuarios exigentes."
+  },
+  {
+    "id": "2ccc1736-b24a-4f56-909c-553176326f7f",
+    "title": "title testing xd 2",
+    "seller": {
+      "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "name": "Kanashiii",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/eeaaa2f4-270f-4af4-9433-52fa95a1a089.png",
+    "price": 10,
+    "category": "Account",
+    "description": "descripcion de testing dwedwqedwqdwd"
+  },
+  {
+    "id": "d6b43546-469e-4be5-a589-a38b32ab0447",
+    "title": "pROduto insane xd 2025",
+    "price": 10,
+    "seller": {
+      "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "name": "Kanashiii",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/d4a9d543-2214-414c-bad3-f2f3670e65e2.png",
+    "category": "Account",
+    "description": "frwefqweferqwdfeqwdwqrdwqdqwrdwqrqwrqwrwq"
+  },
+  {
+    "id": "5742abaf-785a-40a1-b9a1-a91d3d77398e",
+    "title": "Titulo xd de kanashii",
+    "price": 25,
+    "seller": {
+      "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "name": "Kanashiii",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/285a076a-91e8-4863-aa78-083e8d5489b2.png",
+    "category": "Account",
+    "description": "Descripcion insana ...."
+  },
+  {
+    "id": "a540d339-82c0-46de-a9ba-b661bc0a8d1e",
+    "title": "roblox title klk",
+    "price": 50,
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/efdce410-d2f2-456e-8196-ff2d381bb4be.png",
+    "category": "Account",
+    "description": "diejkwbndfkhnwbqmfnwqfqwf"
+  },
+  {
+    "id": "59c39ab6-0e94-47ae-9ed9-330c95734af8",
+    "title": "Crunchyroll 1 month Individual",
+    "price": 10,
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/89d452a1-7a1b-4471-8800-5bde959fe039.png",
+    "category": "Account",
+    "description": "dewquikhbdjqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqkqk"
+  },
+  {
+    "id": "32444fcf-fd62-4a1f-8c10-04d6c7ae1892",
+    "title": "Product",
+    "price": 5,
+    "discount": {
+      "hasDiscount": false,
+      "porcent": 50
+    },
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/7e77e50c-8210-453d-a9c9-e42471f66f09.png",
+    "category": "Account",
+    "description": "dwdadwsadwqdewqdsacas"
+  },
+  {
+    "id": "34dde319-02ac-44a2-9c95-fbf7479b26d7",
+    "title": "cuenta de anima asi nama",
+    "price": 15,
+    "discount": {
+      "hasDiscount": false,
+      "porcent": 0
+    },
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/70abb3be-50fb-409c-8fa1-ba012dd1ec37.png",
+    "category": "Service",
+    "description": "dewdcscascwqewdcwq"
+  },
+  {
+    "id": "1918c599-c3be-4350-8af6-fdc9a4d48390",
+    "title": "Cuenta xd",
+    "price": 15,
+    "discount": {
+      "hasDiscount": true,
+      "porcent": 20
+    },
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/75e0a21f-6017-422b-950f-8d8f308bed91.png",
+    "category": "Account",
+    "description": "Hmmmmmm casiiiiiiiiii"
+  },
+  {
+    "id": "7ae10afe-d86a-4551-bce6-49208868a5d8",
+    "title": "Ccoco",
+    "price": 20,
+    "discount": {
+      "hasDiscount": true,
+      "porcent": 50
+    },
+    "seller": {
+      "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "name": "Sedencito15",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/6776e825-e529-478b-b1c3-965812f32da1.png",
+    "category": "Account",
+    "description": "dewdewxdsa"
+  },
+  {
+    "id": "92d3b5fb-6cae-442a-806e-faae03025b01",
+    "title": "Vendiendo cuenta",
+    "price": 10,
+    "discount": {
+      "hasDiscount": true,
+      "porcent": 50
+    },
+    "seller": {
+      "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "name": "Kanashiii",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/d2039e1a-a627-4070-ae76-3880c8d9219d.png",
+    "category": "Service",
+    "description": "dqwedwqdsafcqawdcxewdewqdd"
+  },
+  {
+    "id": "eb4ba7ec-b69b-4dc4-9b3a-e62c15b4a56f",
+    "title": "dewqdeqwd",
+    "price": 5,
+    "discount": {
+      "hasDiscount": false,
+      "porcent": 0
+    },
+    "seller": {
+      "id": "17401b27-d957-4614-9d88-cda365bdb0f7",
+      "name": "Kanya",
+      "rate": 90.3,
+      "quantity": 89
+    },
+    "image": "../data/images/0e3134aa-3adb-4698-ab70-7fe40783425f.png",
+    "category": "Service",
+    "description": "deqwdwqdqwdqw"
+  }
+]

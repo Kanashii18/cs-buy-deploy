@@ -1,0 +1,34 @@
+[
+  {
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "participants": [
+      "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+      "b42f477b-cb18-4564-8c18-d5c562eee8a2"
+    ],
+    "listing_id": null
+  },
+  {
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "participants": [
+      "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "98792c16-0f58-4e7d-b0f3-79a8304976fb"
+    ],
+    "listing_id": null
+  },
+  {
+    "chat_id": "63b14e4b-90c4-4134-99af-1fb3d14ff397",
+    "participants": [
+      "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+      "c18981cb-c3ff-4de8-a86c-fa73483ee7e5"
+    ],
+    "listing_id": null
+  },
+  {
+    "chat_id": "84320f24-d5f0-425a-93bf-a58d2edb7967",
+    "participants": [
+      "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+      "c18981cb-c3ff-4de8-a86c-fa73483ee7e5"
+    ],
+    "listing_id": null
+  }
+]

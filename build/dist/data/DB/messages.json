@@ -1,0 +1,457 @@
+[
+  {
+    "message_id": "msg_001",
+    "chat_id": "48754f48-fb00-402d-be21-3966bbe56610",
+    "sender_id": "user_123",
+    "text": "Hola, ¿todavía está disponible?",
+    "timestamp": "2025-07-17T15:30:00Z"
+  },
+  {
+    "message_id": "msg_002",
+    "chat_id": "48754f48-fb00-402d-be21-3966bbe56610",
+    "sender_id": "user_456",
+    "text": "Sí, lo tengo.",
+    "timestamp": "2025-07-17T15:31:00Z"
+  },
+  {
+    "message_id": "eae78980-3960-42b2-8de6-992a34cd1913",
+    "chat_id": "8cd17c5f-396c-4b1c-82bf-6db27cb9b0d9",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "Holaaaaa que tla",
+    "timestamp": "2025-07-18T14:54:01.198Z"
+  },
+  {
+    "message_id": "3b9835b9-1ac0-403f-8e05-13c884155484",
+    "chat_id": "8cd17c5f-396c-4b1c-82bf-6db27cb9b0d9",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "en que estas uhm",
+    "timestamp": "2025-07-18T14:54:06.242Z"
+  },
+  {
+    "message_id": "10a5337c-b052-4d65-8235-802cfcd281b9",
+    "chat_id": "8cd17c5f-396c-4b1c-82bf-6db27cb9b0d9",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "k tal",
+    "timestamp": "2025-07-18T15:01:06.692Z"
+  },
+  {
+    "message_id": "ef695071-762b-428c-acba-3cd24ff2b834",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "Holaa que tla",
+    "timestamp": "2025-07-18T15:17:20.222Z"
+  },
+  {
+    "message_id": "c11e5204-c1e4-43e5-bd69-4edcb330eebe",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "soy el creador",
+    "timestamp": "2025-07-18T15:17:22.887Z"
+  },
+  {
+    "message_id": "d273f52e-39c3-49b1-a22a-3de86076f567",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "holap",
+    "timestamp": "2025-07-18T15:22:40.420Z"
+  },
+  {
+    "message_id": "95f3d912-ab0b-4d4e-9060-fc3d461d1144",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "hey",
+    "timestamp": "2025-07-18T15:39:12.589Z"
+  },
+  {
+    "message_id": "6cb7cee8-04af-4dee-9426-47ba19124c6c",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "que tal",
+    "timestamp": "2025-07-18T15:55:02.587Z"
+  },
+  {
+    "message_id": "a2b6d51c-f217-4b32-bd95-ea7815636a5a",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "oye",
+    "timestamp": "2025-07-18T15:55:04.924Z"
+  },
+  {
+    "message_id": "06987ae3-1508-4567-95d8-f963b25be7a5",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "estass?/",
+    "timestamp": "2025-07-18T15:56:27.063Z"
+  },
+  {
+    "message_id": "754f9f4d-ae11-4bad-914a-5b7321bfdc4d",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "broooou",
+    "timestamp": "2025-07-18T15:56:29.373Z"
+  },
+  {
+    "message_id": "3d12959b-1ab5-4bb3-9192-fb00948bbc43",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "madre mia de verdadd...",
+    "timestamp": "2025-07-18T15:56:38.307Z"
+  },
+  {
+    "message_id": "ab380e79-955d-4f73-a573-7d67f425f259",
+    "chat_id": "006462f7-20b2-4c07-8448-fd5cdcaacc35",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "que tontoooo",
+    "timestamp": "2025-07-18T15:56:49.198Z"
+  },
+  {
+    "message_id": "61077563-8fb9-4a1b-85aa-cce600e32c6e",
+    "chat_id": "15f5a141-b847-4bae-9ede-dbf4aaee3569",
+    "sender_id": "2654765c-7f6b-41ac-8267-60470273ad52",
+    "text": "holaa",
+    "timestamp": "2025-07-18T16:02:54.419Z"
+  },
+  {
+    "message_id": "25deba7b-af1b-4c61-af1d-b7db02ec6b8a",
+    "chat_id": "15f5a141-b847-4bae-9ede-dbf4aaee3569",
+    "sender_id": "874a0f3b-6e99-4b86-8f3c-fcd2231d2c34",
+    "text": "quien eres",
+    "timestamp": "2025-07-18T16:05:01.630Z"
+  },
+  {
+    "message_id": "0cbd4093-504a-4760-a19f-d6c95dbcadb4",
+    "chat_id": "15f5a141-b847-4bae-9ede-dbf4aaee3569",
+    "sender_id": "2654765c-7f6b-41ac-8267-60470273ad52",
+    "text": "wtf",
+    "timestamp": "2025-07-18T16:12:12.132Z"
+  },
+  {
+    "message_id": "baa1a759-2e05-4401-b230-548e4c22a855",
+    "chat_id": "15f5a141-b847-4bae-9ede-dbf4aaee3569",
+    "sender_id": "2654765c-7f6b-41ac-8267-60470273ad52",
+    "text": "soy yo bro",
+    "timestamp": "2025-07-18T16:12:47.689Z"
+  },
+  {
+    "message_id": "cb8f096c-b7f3-4e93-bf2f-5ae866f02431",
+    "chat_id": "15f5a141-b847-4bae-9ede-dbf4aaee3569",
+    "sender_id": "2654765c-7f6b-41ac-8267-60470273ad52",
+    "text": "bhjk",
+    "timestamp": "2025-07-18T16:16:09.728Z"
+  },
+  {
+    "message_id": "e6524e7e-e421-43e6-8d65-a9ad362d0945",
+    "chat_id": "d3abeef2-d523-470c-9c85-04eccf03f5a8",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "hola",
+    "timestamp": "2025-07-18T19:15:04.538Z"
+  },
+  {
+    "message_id": "13f265cd-d7e7-4bc0-92d4-7d5034ddbb0d",
+    "chat_id": "null",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T19:40:48.251Z"
+  },
+  {
+    "message_id": "f66ae591-fce4-41b4-87a3-82626490fa44",
+    "chat_id": "null",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola?",
+    "timestamp": "2025-07-19T19:41:00.779Z"
+  },
+  {
+    "message_id": "7c13ac8e-3702-438b-abd0-5978fb223eb0",
+    "chat_id": "null",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T19:42:51.500Z"
+  },
+  {
+    "message_id": "74539e7e-87bc-4f2e-9314-80fbbcaaf908",
+    "chat_id": "null",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola?",
+    "timestamp": "2025-07-19T19:42:59.248Z"
+  },
+  {
+    "message_id": "4ed5a562-1307-4027-81c5-c3ff338ef6af",
+    "chat_id": "6236244c-811d-489e-8c39-b041a0fb3e76",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "holap",
+    "timestamp": "2025-07-19T19:48:38.225Z"
+  },
+  {
+    "message_id": "de1f99c4-b380-4f7b-9257-8ebf75342b78",
+    "chat_id": "b76508ca-874a-4178-aeb3-502b38a62642",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T20:10:23.802Z"
+  },
+  {
+    "message_id": "f4c01865-c087-4f14-aba7-35c5b8f1fe1c",
+    "chat_id": "e46d51a4-3f31-4536-970f-24fc3560a1c7",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "dsadsa",
+    "timestamp": "2025-07-19T20:11:22.304Z"
+  },
+  {
+    "message_id": "e3330a66-bc60-4861-987f-c508cf73af95",
+    "chat_id": "743c6be0-7e62-41a9-b88f-6df1ff2f6f87",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "dsa",
+    "timestamp": "2025-07-19T20:28:41.238Z"
+  },
+  {
+    "message_id": "d69c3276-07e9-44ed-a527-44c8ec2d9668",
+    "chat_id": "8ba6cbf5-8a61-4c76-bcab-6fc7bb583ad0",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T20:30:18.925Z"
+  },
+  {
+    "message_id": "1322baea-813a-4ecb-8fcf-1e7cf621d472",
+    "chat_id": "3321d498-61d7-42fe-8ccf-a4fe3b99414b",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T20:35:49.969Z"
+  },
+  {
+    "message_id": "e8653562-3b75-415a-8adf-19712ce6ac79",
+    "chat_id": "58691a88-97f6-49f1-a7cd-280439f280a1",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "que tal",
+    "timestamp": "2025-07-19T20:36:53.216Z"
+  },
+  {
+    "message_id": "4fefd464-3f76-4c88-8561-72c548e60b43",
+    "chat_id": "7e729e45-9d1a-442c-b58d-7d09caef6816",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "dewdwqdsa",
+    "timestamp": "2025-07-19T20:37:40.392Z"
+  },
+  {
+    "message_id": "beeb7cc6-b3c6-447c-8123-f5031cc25be2",
+    "chat_id": "677d007d-dfc8-4283-b7fb-b424c745a186",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T20:39:45.292Z"
+  },
+  {
+    "message_id": "d2c43e32-3ee7-4989-9d77-f36f9f25230f",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "70a5e4a1-56ad-491d-9a8e-913c749ba943",
+    "text": "hola",
+    "timestamp": "2025-07-19T20:42:16.979Z"
+  },
+  {
+    "message_id": "e7d6bb02-6a91-437d-bab6-5d60f24ebf8c",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "Klk",
+    "timestamp": "2025-07-19T20:44:00.458Z"
+  },
+  {
+    "message_id": "16ca74a9-aefe-46f6-bc24-a6d6c8914fd7",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "En k estas",
+    "timestamp": "2025-07-19T20:44:04.138Z"
+  },
+  {
+    "message_id": "97d71315-edd3-4a9c-81f1-9e14ad9e7252",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "k haces",
+    "timestamp": "2025-07-19T20:45:43.827Z"
+  },
+  {
+    "message_id": "dc64c765-95ce-4d3f-8c28-205e6daf7647",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "nada aaca",
+    "timestamp": "2025-07-19T20:46:01.385Z"
+  },
+  {
+    "message_id": "d44746b7-ba8d-452c-8eba-916775aa3cdc",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "klk",
+    "timestamp": "2025-07-20T04:31:58.042Z"
+  },
+  {
+    "message_id": "4167a3a9-049e-484b-8c16-f546b936775f",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "klk",
+    "timestamp": "2025-07-20T04:32:20.760Z"
+  },
+  {
+    "message_id": "4adb6696-be8e-4f6e-b38a-986d870f744d",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "en k estas",
+    "timestamp": "2025-07-20T04:32:22.533Z"
+  },
+  {
+    "message_id": "74a9449b-0b7b-4b08-8c96-d1e65bf681c9",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "aki toy",
+    "timestamp": "2025-07-20T04:32:54.182Z"
+  },
+  {
+    "message_id": "e4458b1a-9a09-4516-bc90-12689e123b5d",
+    "chat_id": "041129f2-0d55-4f3d-95b3-e20c8374f8ed",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "🙃",
+    "timestamp": "2025-07-20T04:33:26.465Z"
+  },
+  {
+    "message_id": "3e2819ae-e463-42a7-8c6a-8bbcc57fa191",
+    "chat_id": "71d4cb64-4285-4fc5-9753-c55eae64fa03",
+    "sender_id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+    "text": "Klk soy tu fan",
+    "timestamp": "2025-07-20T11:59:02.537Z"
+  },
+  {
+    "message_id": "22f3e681-924b-43b3-bea7-8c8d251e3632",
+    "chat_id": "71d4cb64-4285-4fc5-9753-c55eae64fa03",
+    "sender_id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+    "text": "klk",
+    "timestamp": "2025-07-20T12:02:32.826Z"
+  },
+  {
+    "message_id": "235da3d3-f0cd-4752-b781-21b1aa12c83f",
+    "chat_id": "71d4cb64-4285-4fc5-9753-c55eae64fa03",
+    "sender_id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+    "text": "response mmg",
+    "timestamp": "2025-07-20T12:02:34.943Z"
+  },
+  {
+    "message_id": "6bfaaff5-fc64-424f-a26a-eb0f19f34b45",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "como estas",
+    "timestamp": "2025-07-20T17:30:51.025Z"
+  },
+  {
+    "message_id": "75e6e6eb-b63b-4e0e-b999-a61f5fb53555",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "que tal todo?",
+    "timestamp": "2025-07-20T17:30:56.558Z"
+  },
+  {
+    "message_id": "aea07f64-79f6-4763-8d49-4edc6ef09860",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "klk",
+    "timestamp": "2025-07-21T05:53:20.725Z"
+  },
+  {
+    "message_id": "4ded6a87-5d06-4f8b-87bf-44e7a81db82d",
+    "chat_id": "null",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "klk",
+    "timestamp": "2025-07-21T07:52:18.538Z"
+  },
+  {
+    "message_id": "86bf62ba-fb67-48c7-97a4-a3992afedc16",
+    "chat_id": "null",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "klk",
+    "timestamp": "2025-07-22T00:35:16.717Z"
+  },
+  {
+    "message_id": "6cbaa563-cc03-4574-9990-cd3b6941e27a",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "dsadasd",
+    "timestamp": "2025-07-24T14:21:11.101Z"
+  },
+  {
+    "message_id": "b578a482-c70e-4b15-9f88-d96d9cf194ef",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "hOLa",
+    "timestamp": "2025-07-24T14:21:14.109Z"
+  },
+  {
+    "message_id": "933fe41c-675d-40bb-9da4-3af9d8f78584",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "En k Estas",
+    "timestamp": "2025-07-24T14:21:20.885Z"
+  },
+  {
+    "message_id": "d0be17bd-aa76-4515-b61d-057c6efb3751",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "....",
+    "timestamp": "2025-07-24T14:21:23.404Z"
+  },
+  {
+    "message_id": "9e1bf76b-8dca-47be-866b-2a70995a98eb",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "dsssssssssssssssssssssssssssssssssssssss",
+    "timestamp": "2025-07-24T14:21:29.767Z"
+  },
+  {
+    "message_id": "099eaac8-e4bc-4785-bff6-cec4708df8f0",
+    "chat_id": "85b8bfbf-eec1-4876-b5ae-120a0d103b63",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "CALLATEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+    "timestamp": "2025-07-24T14:41:21.346Z"
+  },
+  {
+    "message_id": "db8e2666-58f3-41c7-a019-20413dcc43fb",
+    "chat_id": "null",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "hola?",
+    "timestamp": "2025-07-27T02:50:26.229Z"
+  },
+  {
+    "message_id": "9c70bf10-6014-4e9d-a3f1-3694848effe5",
+    "chat_id": "null",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "...",
+    "timestamp": "2025-07-27T02:50:43.169Z"
+  },
+  {
+    "message_id": "9581dbca-3cd0-4c12-9f64-f299acdc978c",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "k haces",
+    "timestamp": "2025-07-27T17:46:04.797Z"
+  },
+  {
+    "message_id": "4fb60f81-74d1-4880-a19a-8f14d3a427a7",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "maldito pete",
+    "timestamp": "2025-07-28T00:01:23.831Z"
+  },
+  {
+    "message_id": "026206d3-af4c-475e-b5a6-434ed7338deb",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "Qlq",
+    "timestamp": "2025-07-28T01:42:10.742Z"
+  },
+  {
+    "message_id": "40d37224-0f83-4b85-b32b-63d0a7905329",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+    "text": "en k ta",
+    "timestamp": "2025-07-28T01:42:15.018Z"
+  },
+  {
+    "message_id": "76f3694a-7534-44a8-8556-886cc0bb97a2",
+    "chat_id": "45bd4a3f-ddda-442a-8cae-ef79f3205285",
+    "sender_id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+    "text": "Nah aqui",
+    "timestamp": "2025-07-28T01:42:32.308Z"
+  }
+]

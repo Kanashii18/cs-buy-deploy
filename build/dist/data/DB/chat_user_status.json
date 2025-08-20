@@ -1,0 +1,48 @@
+     [
+          {
+               "id":"b42f477b-cb18-4564-8c18-d5c562eee8a2",
+               "room_chat":[
+                         {
+                              "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 6
+                         },
+                         {
+                              "id": "98792c16-0f58-4e7d-b0f3-79a8304976fb",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 6
+                         },
+                         {
+                              "id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 3
+                         },
+                         {
+                              "id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 3
+                         }
+                 ]
+          },
+          {
+               "id":"98792c16-0f58-4e7d-b0f3-79a8304976fb",
+               "room_chat":[
+                         {
+                              "id": "b42f477b-cb18-4564-8c18-d5c562eee8a2",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 6
+                         },
+                         {
+                              "id": "c18981cb-c3ff-4de8-a86c-fa73483ee7e5",
+                              "listing_id": "765ba328-7b4a-44c8-a10b-3db6547fea16",
+                              "timestamp": 12345690,
+                              "unreadCount": 3
+                         }
+               ]
+          }
+     ]

@@ -1,0 +1,16 @@
+[
+     {
+          "products":{
+               "accounts":[
+                    { 
+                         "title":"crunchyroll",
+                         "product_id":"213414432",
+                         "product_price":100,
+                         "seller_id":"98792c16-0f58-4e7d-b0f3-79a8304976fb"
+                    }
+               ],
+               "services":[{}],
+               "assets":[{}]
+          }
+     }
+]

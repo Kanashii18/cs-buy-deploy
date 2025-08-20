@@ -1,0 +1,30 @@
+[
+     {
+          "user_id": "765ba328-7b4a-44c8-a10b-3db6547fea4d",
+          "username": "Leeke",
+          "img": "/data/images/3.jpg",
+          "rating": 99.4,
+          "feedbacks": [
+               {
+                    "user":{
+                         "user_id":"1234-1234-1234",
+                         "username":"Leeke",
+                         "img":"/data/images/10.jpg"
+                    },
+                    "comment": "buen producto...",
+                    "category": "streaming",
+                    "date": "2025-06-30"
+               },
+               {
+                   "user":{
+                         "user_id":"1234-1234-1232",
+                         "username":"kanasdei",
+                         "img":"/data/images/10.jpg"
+                    },
+                    "comment": "Sedencito bugarron",
+                    "category": "streaming",
+                    "date": "2025-06-30" 
+               }
+          ]
+     }
+]

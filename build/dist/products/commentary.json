@@ -1,0 +1,15 @@
+[
+     {
+     "seller-id":"765ba328-7b4a-44c8-a10b-3db6547fea2d",
+     "username":"kanashii",
+     "feedbacks":[{
+               "productId": "af6a7be7-5468-48b8-a381-69fd4f58ac2c",
+               "userId": "1234-1234-1234-3214",
+               "username":"Kanabis32",
+               "rating": 4.0,
+               "comment": "buen producto...",
+               "category": "streaming",
+               "date": "2025-06-30"
+          }
+     ]}
+]
